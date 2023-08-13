@@ -1,0 +1,6 @@
+README
+
+Run these commands on a terminal inside bin folder:
+$ java MonteCarloMini.MonteCarloMinimizationParallel 1000 1000 -40 40 -40 40 0.05
+
+where the numbers represent the command line arguments (rows, columns, xmin, xmax, ymin, ymax, searches density) respectively.
